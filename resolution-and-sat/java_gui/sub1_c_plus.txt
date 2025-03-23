@@ -1,0 +1,1 @@
+plus(zero, X, X) and (¬plus(X, Y, Z) or plus(succ(X), Y, succ(Z))) and ¬plus(succ(succ(zero)), succ(succ(succ(zero))), U)

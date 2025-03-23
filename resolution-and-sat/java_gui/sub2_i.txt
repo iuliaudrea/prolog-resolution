@@ -1,0 +1,1 @@
+toddler and (¬toddler or child) and (¬child or ¬male or boy) and (¬infant or child) and (¬child or ¬female or girl) and female and girl

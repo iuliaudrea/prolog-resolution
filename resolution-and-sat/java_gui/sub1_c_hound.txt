@@ -1,0 +1,1 @@
+(¬hound(X) or howl(X)) and (¬have(X,Y) or ¬cat(Y) or ¬have(X,Z) or ¬mouse(Z)) and (¬ls(X) or ¬have(X,Y) or ¬howl(Y)) and have(john, a) and (cat(a) or hound(a)) and ls(john)

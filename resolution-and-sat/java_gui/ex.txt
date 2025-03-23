@@ -1,0 +1,1 @@
+(¬a or b) and (c or f) and ¬c and (¬f or b) and (¬c or b)

@@ -1,0 +1,1 @@
+on(a,b) and on(b,c) and green(a) and ¬green(c) and (¬on(X,Y) or ¬green(X) or green(Y))

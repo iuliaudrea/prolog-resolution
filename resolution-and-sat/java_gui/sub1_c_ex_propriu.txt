@@ -1,0 +1,1 @@
+(¬exercises(X) or ¬eatsWell(X) or fit(X)) and (¬vegetarian(X) or eatsWell(X)) and (¬fit(X) or canHike(X)) and (¬goesToGym(X) or exercises(X) or trainer(X)) and (¬trainer(X) or ¬hasOfficeJob(X)) and hasOfficeJob(a) and goesToGym(a) and vegetarian(a) and ¬canHike(a)
