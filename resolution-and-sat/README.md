@@ -54,7 +54,4 @@ The implementation was tested on several propositional logic examples (included 
 ## GUI Preview
   ![Resolution & SAT Solver Interface](../images/resolution.png)
 
-## References
-- Ronald Brachman, Hector Levesque, *Knowledge Representation and Reasoning*, Morgan Kaufmann 2004.
-
 

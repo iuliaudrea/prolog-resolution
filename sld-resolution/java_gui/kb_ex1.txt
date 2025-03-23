@@ -1,0 +1,4 @@
+If a person is a student and has a grade greater than five, then the person passes the exam.
+If a person passes the exam, then the person receives a diploma.
+If a person receives a diploma and has a CV, then the person can apply for a job.
+The person can apply for a job.
