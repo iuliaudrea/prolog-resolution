@@ -1,0 +1,3 @@
+If cleanliness is poor or location is bad, then the review is low.
+If cleanliness is decent, then the review is moderate.
+If cleanliness is excellent or location is good, then the review is high.
